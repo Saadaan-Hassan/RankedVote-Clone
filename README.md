@@ -1,6 +1,6 @@
 # RankedVote-Clone: Online Ranked-Choice Voting Polls
 
-This project is a clone of the website [RankedVote](https://www.rankedvote.co/). It is a web application for creating online ranked-choice voting polls.
+This project is a clone of the website [RankedVote](https://www.rankedvote.co/). It is a web application for creating online ranked-choice voting polls. The project is built using HTML, CSS, and JavaScript. It uses the Bootstrap CSS framework for styling and the Swiper JavaScript library for creating a responsive slider. The project also uses the Typed.js JavaScript library to create a typing effect for the header text. The project is responsive and works on all devices. To view the live version of the project, click [here](https://saadaan-hassan.github.io/RankedVote-Clone/).
 
 ## Libraries Used
 
